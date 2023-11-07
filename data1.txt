@@ -1,0 +1,35 @@
+Canada 2015 10.60
+Canada 2016 10.70
+Canada 2017 10.95
+Canada 2018 10.78
+Canada 2019 11.70
+Canada 2020 10.60
+Canada 2021 10.75
+Quebec 2015 10.90
+Quebec 2016 9.82
+Quebec 2017 9.58
+Quebec 2018 10.65
+Quebec 2019 10.48
+Quebec 2020 9.52
+Quebec 2021 10.47
+Ontario 2015 10.77
+Ontario 2016 12.20
+Ontario 2017 11.98
+Ontario 2018 11.28
+Ontario 2019 13.03
+Ontario 2020 11.17
+Ontario 2021 11.48
+Alberta 2015 7.77
+Alberta 2016 9.77
+Alberta 2017 11.97
+Alberta 2018 11.02
+Alberta 2019 11.33
+Alberta 2020 10.73
+Alberta 2021 9.82
+British Columbia 2015 9.30
+British Columbia 2016 8.53
+British Columbia 2017 8.45
+British Columbia 2018 8.52
+British Columbia 2019 9.53
+British Columbia 2020 7.53
+British Columbia 2021 7.77
